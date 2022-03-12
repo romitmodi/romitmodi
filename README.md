@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @romitmodi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Angular
+- 👋 Hi, I’m Romit Modi
+- 👀 I’m interested in problem solving using technology.
+- 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
